@@ -13,3 +13,7 @@ More [Here](https://docs.ens.domains/)
 
 
 [ZoKrates](https://zokrates.github.io/) ZoKrates is a toolbox for zkSNARKs on Ethereum. It helps you use verifiable computation in your DApp, from the specification of your program in a high level language to generating proofs of computation to verifying those proofs in Solidity.
+
+
+
+[Code Coverage for Solidity](https://blog.colony.io/code-coverage-for-solidity-eecfa88668c2/) 
